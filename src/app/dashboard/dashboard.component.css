@@ -23,6 +23,7 @@
   }
   .grid {
     margin: 0;
+    display: inline-block;
   }
   .col-1-4 {
     width: 25%;
